@@ -1,0 +1,42 @@
+{
+    "workout_plans": [
+        {
+            "name": "Beginner",
+            "difficulty": "Easy",
+            "days_per_week": 3,
+            "veg_diet": "Include plenty of fruits and vegetables.",
+            "non_veg_diet": "Lean protein sources like chicken or fish are recommended.",
+            "exercises": [
+                {
+                    "name": "Push-Ups",
+                    "sets": 3,
+                    "reps": 10
+                },
+                {
+                    "name": "Squats",
+                    "sets": 3,
+                    "reps": 12
+                }
+            ]
+        },
+        {
+            "name": "Intermediate",
+            "difficulty": "Moderate",
+            "days_per_week": 5,
+            "veg_diet": "Consume more plant-based protein sources like tofu or beans.",
+            "non_veg_diet": "Incorporate lean meat and fish for protein.",
+            "exercises": [
+                {
+                    "name": "Bench Press",
+                    "sets": 4,
+                    "reps": 8
+                },
+                {
+                    "name": "Deadlifts",
+                    "sets": 4,
+                    "reps": 10
+                }
+            ]
+        }
+    ]
+}
